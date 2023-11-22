@@ -1,0 +1,169 @@
+.first-section{
+    background-color: #d6dad5;
+}
+
+.fs-text1{
+    font-size: 16px;
+    color: #588087;
+    margin-top: 6rem;
+}
+.fs-text1a{
+    font-size: 16px;
+    color: #588087;
+    margin-top: -1rem;
+}
+
+.fs-text2{
+    font-size: 30px;
+    color: #134f5c;
+    margin-bottom: 2rem;
+}
+
+.second-section{
+    background-position: center center; 
+    background-image: url(https://lh5.googleusercontent.com/UaICxFb_O4sXOtZPuP02uw26VjWSqYjMLB86f4G5gNeKXvm8Jpuju1uB1rbNNaP_1at2KM9zPhNvu2UR3oFE20g=w16383); 
+    background-size: cover;
+}
+
+.ss-text1{
+    font-size: 16px;
+    color: #3a5d26;
+    margin-top: 2rem;
+}
+
+.ss-text2{
+    font-size: 14px;
+    color: #274e13;
+    margin-top: -1rem;
+}
+
+.ss-button-container{
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    transition: all 0.2s linear
+}
+
+.ss-button-container:hover{
+    transform: scale(1.05);
+}
+
+.ss-btn{
+    border-radius: 30px;
+    padding: 10px 40px;
+    text-decoration: none;
+    cursor: pointer;
+    width: 13rem;
+    height: 2.5rem;
+    border: none;
+    background-color: #769385;
+    color: white;
+    font-size: 18px;
+}
+
+.ts-counter{
+    font-size: 8rem;
+    color: #3d6c60;
+}
+
+.ts-time{
+    width:80%;
+    margin: 0 auto;
+}
+
+.ts-time-text{
+    font-size: 2rem;
+    color: #3d6c60;
+}
+
+.fs-bckgrd{
+    background-position: center center; 
+    background-image: url(https://lh6.googleusercontent.com/xwbgik6sgekZ44NVC3oBg3kU6OEac7y76Zg0qfscLpPwNU_U7jsDa1xfGOzmq7YZx_SJBFb8pMzGGaEFx57yAqc=w16383); 
+    background-size: cover;
+}
+
+.fs-text1{
+    font-size: 24px;
+    color: #0c343d;
+    margin-top: 2rem;
+}
+
+.fs-text2{
+    font-size: 14px;
+    color: #416f78;
+}
+
+.fs-text3{
+    font-size: 14px;
+    color: #416f78;
+    margin-top: -2rem;
+}
+
+.ffs-margins{
+    padding-bottom: 2rem;
+}
+
+.ffs-bckgrd{
+    background-color: #d6dad5;
+}
+
+.ffs-text1{
+    font-size: 18px;
+    text-decoration: underline;
+    color: #0c343d;
+    margin-top: 2rem;
+}
+
+.ffs-text2{
+    font-size: 14px;
+    color: #416f78;
+    margin-top: -1rem;
+}
+
+.ffs-text3{
+    font-size: 12px;
+    color: #416f78;
+    margin-top: -1rem;
+    font-style: italic;
+}
+
+.ffs-text4{
+    font-size: 18px;
+    text-decoration: underline;
+    color: #0c343d;
+    margin-top: -1rem;
+}
+
+.sixth-section{
+    margin-top: 3rem;
+}
+
+.sx-img{
+    height: 60%;
+    margin-bottom: 3rem;
+}
+
+.sx-text2{
+    font-size: 14px;
+    color: #274e13;
+    margin-top: -1rem;
+}
+
+.svs-text1{
+    font-size: 18px;
+    color: #134f5c;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.ns-bckgrd{
+    background-position: center center; 
+    background-image: url(https://lh6.googleusercontent.com/xwbgik6sgekZ44NVC3oBg3kU6OEac7y76Zg0qfscLpPwNU_U7jsDa1xfGOzmq7YZx_SJBFb8pMzGGaEFx57yAqc=w16383); 
+    background-size: cover;
+}
+
+.ns-img{
+    margin-top: 3rem;
+    height: 60%;
+}
+
+
